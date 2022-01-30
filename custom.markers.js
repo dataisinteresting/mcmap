@@ -56,6 +56,19 @@ UnminedCustomMarkers = {
             font: "bold 40px Calibri,sans serif",
         },
 
+        {
+            x: 863,
+            z: 388,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "THE ENDER EXPRESS",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 40px Calibri,sans serif",
+        },
+
         // add your markers here
 
 
