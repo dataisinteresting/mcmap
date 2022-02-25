@@ -49,11 +49,11 @@ UnminedCustomMarkers = {
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
-            text: "HOME VILLAGE",
-            textColor: "black", 
+            text: "Home Village",
+            textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 40px Calibri,sans serif",
+            font: "bold 24px Calibri,sans serif",
         },
 
         {
@@ -62,11 +62,11 @@ UnminedCustomMarkers = {
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
-            text: "THE ENDER EXPRESS",
-            textColor: "black", 
+            text: "Ender Express",
+            textColor: "white", 
             offsetX: 0,
             offsetY: 20,
-            font: "bold 40px Calibri,sans serif",
+            font: "bold 24px Calibri,sans serif",
         },
 
         // add your markers here

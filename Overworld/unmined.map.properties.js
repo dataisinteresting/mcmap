@@ -6,8 +6,8 @@ var UnminedMapProperties = {
     imageFormat: "png",
     minRegionX: -14,
     minRegionZ: -27,
-    maxRegionX: 15,
-    maxRegionZ: 7,
+    maxRegionX: 26,
+    maxRegionZ: 10,
     worldName: "A normal place - Copy",
     background: "",
     markers: new Array()
