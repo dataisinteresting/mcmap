@@ -50,7 +50,6 @@ UnminedCustomMarkers = {
             imageScale: 0.5,
             text: "Woodland Mansion",
             textColor: "white", 
-		outlineColor = "black",
             offsetX: 0,
             offsetY: 20,
             font: "bold 24px Calibri,sans serif",
