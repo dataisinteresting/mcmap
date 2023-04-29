@@ -3,12 +3,12 @@ var UnminedMapProperties = {
     minZoom: -6,
     maxZoom: 2,
     defaultZoom: 0,
-    imageFormat: "jpeg",
-    minRegionX: -7,
-    minRegionZ: -8,
+    imageFormat: "png",
+    minRegionX: -8,
+    minRegionZ: -20,
     maxRegionX: 23,
-    maxRegionZ: 8,
-    worldName: "A Whole New World",
+    maxRegionZ: 12,
+    worldName: "A Whole New World - Copy",
     background: "",
     markers: new Array()
 }

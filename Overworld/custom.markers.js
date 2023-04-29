@@ -42,50 +42,18 @@ UnminedCustomMarkers = {
 
     markers: [
 
-        // Example 2: Marker with text
         {
-            x: 928,
-            z: 451,
+            x: 9086,
+            z: -9820,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
-            text: "Home Village",
+            text: "Woodland Mansion",
             textColor: "white", 
             offsetX: 0,
             offsetY: 20,
             font: "bold 24px Calibri,sans serif",
         },
-
-        {
-            x: 863,
-            z: 388,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-            text: "Ender Express",
-            textColor: "white", 
-            offsetX: 0,
-            offsetY: 20,
-            font: "bold 24px Calibri,sans serif",
-        },
-
-        {
-            x: 835,
-            z: 109,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-            text: "Desert Village",
-            textColor: "white", 
-            offsetX: 0,
-            offsetY: 20,
-            font: "bold 24px Calibri,sans serif",
-        },
-
-        // add your markers here
-
-
-
 
         // do not delete the following two closing brackets
     ]
