@@ -124,6 +124,7 @@
 			}
 		</style>
 	</head>
+
 	<body>
 		<div id="map"></div>
 		<div class="dropdown">
@@ -132,6 +133,18 @@
 				<a href="https://dataisinteresting.github.io/mcmap/Overworld/unmined.index.html">Overworld</a>
 				<a href="https://dataisinteresting.github.io/mcmap/Nether/unmined.index.html">Nether</a>
 			</div>
+
+		<div class="markers">
+			<a class="markerbutton" href="https://coastalcraft.github.io/markers.index.html">View Markers</a>
+		</div>
+		<script type="text/javascript">
+			document.title = UnminedMapProperties.worldName + " - " + document.title;
+			if (UnminedCustomMarkers && UnminedCustomMarkers.isEnabled && UnminedCustomMarkers.markers) {
+				UnminedMapProperties.markers = UnminedMapProperties.markers.concat(UnminedCustomMarkers.markers);
+			}
+			let unmined = new Unmined();
+			unmined.map('map', UnminedMapProperties, UnminedRegions);
+		</script>
 
 	</body>
 </html>
