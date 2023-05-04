@@ -50,14 +50,15 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
             text: "Portal to Home Village",
-            textColor: "white", 
+            textColor: "white",
+		strokeColor: "#ffffff",
             offsetX: 0,
             offsetY: 20,
             font: "bold 24px Calibri,sans serif",
         },
 
 
-
+	
 
         // do not delete the following two closing brackets
     ]
