@@ -5,7 +5,7 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "png",
     minRegionX: -8,
-    minRegionZ: -20,
+    minRegionZ: -21,
     maxRegionX: 23,
     maxRegionZ: 12,
     worldName: "A Whole New World - Copy",

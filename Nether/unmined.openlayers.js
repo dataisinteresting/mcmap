@@ -213,11 +213,11 @@ class Unmined {
                         color: item.textBackgroundStrokeColor,
                         width: item.textBackgroundStrokeWidth
                     }) : null,
+
 				stroke: new ol.style.Stroke({ 
     				color: '#000',
     				width: 4,
 				}),
-
                 }));
             }
 
